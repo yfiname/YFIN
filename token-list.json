@@ -1,0 +1,25 @@
+{
+  "name": "YFIN",
+  "logoURI": "https://yfi.name/Public/Home/yfina.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "YFI"
+    ],
+    "timestamp": "2020-11-02T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0XC259BD68FE764CFA3FD5C04A3BD24363C7E112EC",
+      "name": "YFIN",
+      "symbol": "YFI.Name",
+      "decimals": 18,
+      "logoURI": "https://yfi.name/Public/Home/yfina.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
