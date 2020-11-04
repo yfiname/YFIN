@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at Etherscan.io on 2020-03-16
+ *Submitted for verification at Etherscan.io on 2020-10-10
  * http://erc20f.com
 */
 
@@ -24,8 +24,8 @@ contract YFIN_contract is ERC20Interface {
   mapping (address => mapping (address => uint256) ) internal allowed;
 
   constructor() public {
-    name = "";
-    symbol = "";
+    name = "yfi.name";
+    symbol = "YFIN";
     decimals = 18;
     // 
      totalSupply = 60000* (10 ** 18);
