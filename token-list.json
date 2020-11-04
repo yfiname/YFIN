@@ -6,7 +6,7 @@
       "DEFI",
       "YFI"
     ],
-    "timestamp": "2020-11-02T01:40:34.305Z",
+    "timestamp": "2020-11-04T01:40:34.305Z",
     "tokens": [
       {
       "chainId": 1,
@@ -20,6 +20,6 @@
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 0
+      "patch": 1
     }
 }
