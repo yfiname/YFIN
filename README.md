@@ -1,2 +1,2 @@
 # YFIN
-YFI
+YFIN Contract Source Code
